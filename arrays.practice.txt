@@ -1,0 +1,35 @@
+🟢 EASY
+Second Largest Element - Sandeep
+Move All Zeroes To End - Uttam
+Max Consecutive Ones - Deepak
+Remove All Occurrences of Element - Sandeep
+Remove Duplicates from Sorted Array - Uttam
+Alternate Positive Negative - Deepak
+Plus One - Sandep
+Reverse Array in Groups - Uttam
+Wave Array - Deepak
+Insert Duplicate Element - Sandep
+
+🟡 MEDIUM
+Maximum Subarray Sum - Sandeep
+Maximum Product Subarray - Uttam
+Product of Array Except Self - Deepak
+Majority Element - Sandep
+Majority Element II - Uttam
+Next Permutation - DeepAK
+Stock Buy and Sell – Multiple Transactions - Sandep
+Subarrays with Product Less Than K - Uttam
+Minimum Swaps To Group All Ones - Deepak
+Split Into Three Equal Sum Segments - Sandeep
+
+🔴 HARD
+Trapping Rain Water - Sandeep
+Smallest Missing Positive Number - Uttam
+Jump Game - DeepAK
+Closest Subsequence Sum - Sandeep
+Smallest Range Having Elements From K Lists - Uttam
+Count Subarrays with K Distinct Elements - DeepAK
+Maximum Circular Subarray Sum - Sandeep
+Smallest Non-Representable Sum in Array - Uttam
+Candy Distribution - Deepak
+Next Smallest Palindrome - Sandeep
