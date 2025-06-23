@@ -12,7 +12,7 @@ public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
         int[] nums = {1, 1, 1, 1, 2, 2, 3, 3, 4};
         int k = removeDuplicatesFromSortedArray(nums);
-        System.out.println("k " + k);
+        System.out.print("\nValue of K: " + k);
     }
 
     private static int removeDuplicatesFromSortedArray(int[] nums) {
@@ -23,7 +23,6 @@ public class RemoveDuplicatesFromSortedArray {
                 index++;
             }
         }
-
         for (int i = 0; i < nums.length; i++) {
             System.out.print(nums[i] + " ");
         }
