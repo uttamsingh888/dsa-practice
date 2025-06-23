@@ -1,35 +1,35 @@
 🟢 EASY
-Second Largest Element - Sandeep
+Second Largest Element - Danish
 Move All Zeroes To End - Uttam
-Max Consecutive Ones - Deepak
-Remove All Occurrences of Element - Sandeep
-Remove Duplicates from Sorted Array - Uttam
-Alternate Positive Negative - Deepak
-Plus One - Sandep
+Max Consecutive Ones - Danish
+Remove All Occurrences of Element - Uttam
+Remove Duplicates from Sorted Array - Danish
+Alternate Positive Negative - Uttam
+Plus One - Danish
 Reverse Array in Groups - Uttam
-Wave Array - Deepak
-Insert Duplicate Element - Sandep
+Wave Array - Danish
+Insert Duplicate Element - Uttam
 
 🟡 MEDIUM
-Maximum Subarray Sum - Sandeep
+Maximum Subarray Sum - Danish
 Maximum Product Subarray - Uttam
-Product of Array Except Self - Deepak
-Majority Element - Sandep
-Majority Element II - Uttam
-Next Permutation - DeepAK
-Stock Buy and Sell – Multiple Transactions - Sandep
+Product of Array Except Self - Danish
+Majority Element - Uttam
+Majority Element II - Danish
+Next Permutation - Uttam
+Stock Buy and Sell – Multiple Transactions - Danish
 Subarrays with Product Less Than K - Uttam
-Minimum Swaps To Group All Ones - Deepak
-Split Into Three Equal Sum Segments - Sandeep
+Minimum Swaps To Group All Ones - Danish
+Split Into Three Equal Sum Segments - Uttam
 
 🔴 HARD
-Trapping Rain Water - Sandeep
+Trapping Rain Water - Danish
 Smallest Missing Positive Number - Uttam
-Jump Game - DeepAK
-Closest Subsequence Sum - Sandeep
-Smallest Range Having Elements From K Lists - Uttam
-Count Subarrays with K Distinct Elements - DeepAK
-Maximum Circular Subarray Sum - Sandeep
+Jump Game - Danish
+Closest Subsequence Sum - Uttam
+Smallest Range Having Elements From K Lists - Danish
+Count Subarrays with K Distinct Elements - Uttam
+Maximum Circular Subarray Sum - Danish
 Smallest Non-Representable Sum in Array - Uttam
-Candy Distribution - Deepak
-Next Smallest Palindrome - Sandeep
+Candy Distribution - Danish
+Next Smallest Palindrome - Uttam
