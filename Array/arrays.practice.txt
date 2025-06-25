@@ -1,35 +1,55 @@
 🟢 EASY
-Second Largest Element - Danish
-Move All Zeroes To End - Uttam
-Max Consecutive Ones - Danish
-Remove All Occurrences of Element - Uttam
-Remove Duplicates from Sorted Array - Danish
-Alternate Positive Negative - Uttam
-Plus One - Danish
-Reverse Array in Groups - Uttam
-Wave Array - Danish
-Insert Duplicate Element - Uttam
+Second Largest Element
+Third Largest Element
+Three Great Candidates
+Max Consecutive Ones
+Move All Zeroes To End
+Reverse Array in Groups
+Rotate Array
+Wave Array
+Plus One
+Stock Buy and Sell – One Transaction
+Repetitive Addition Of Digits
+Remove All Occurrences of Element
+Remove Duplicates from Sorted Array
+Alternate Positive Negative
+Insert Duplicate Element
+Array Leaders
+Missing and Repeating in Array
+Missing Ranges of Numbers
 
 🟡 MEDIUM
-Maximum Subarray Sum - Danish
-Maximum Product Subarray - Uttam
-Product of Array Except Self - Danish
-Majority Element - Uttam
-Majority Element II - Danish
-Next Permutation - Uttam
-Stock Buy and Sell – Multiple Transactions - Danish
-Subarrays with Product Less Than K - Uttam
-Minimum Swaps To Group All Ones - Danish
-Split Into Three Equal Sum Segments - Uttam
+Next Permutation
+Majority Element
+Majority Element II
+Stock Buy and Sell – Multiple Transactions
+Minimize the Heights II
+Maximum Subarray Sum
+Maximum Product Subarray
+Product of Array Except Self
+Subarrays with Product Less Than K
+Split Into Three Equal Sum Segments
+Maximum Consecutive 1s After Flipping 0s
+Last Moment Before Ants Fall Out of Plank
+Find 0 with Farthest 1s in a Binary
+Intersection of Interval Lists
+Rearrange Array Elements by Sign
+Meeting Scheduler for Two Persons
+Longest Mountain Subarray
+Transform and Sort Array
+Minimum Swaps To Group All Ones
+Minimum Moves To Equalize Array
+Minimum Indices To Equal Even-Odd Sums
 
 🔴 HARD
-Trapping Rain Water - Danish
-Smallest Missing Positive Number - Uttam
-Jump Game - Danish
-Closest Subsequence Sum - Uttam
-Smallest Range Having Elements From K Lists - Danish
-Count Subarrays with K Distinct Elements - Uttam
-Maximum Circular Subarray Sum - Danish
-Smallest Non-Representable Sum in Array - Uttam
-Candy Distribution - Danish
-Next Smallest Palindrome - Uttam
+Trapping Rain Water
+Maximum Circular Subarray Sum
+Smallest Missing Positive Number
+Jump Game
+Closest Subsequence Sum
+Smallest Non-Representable Sum in Array
+Smallest Range Having Elements From K Lists
+Candy Distribution
+Count Subarrays with K Distinct Elements
+Next Smallest Palindrome
+Maximum Sum Among All Rotations
