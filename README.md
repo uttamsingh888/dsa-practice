@@ -9,6 +9,8 @@
 
 ## 📚 GeeksforGeeks: DSA & Algorithms
 
+https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/
+
 ### 🔍 Searching & Sorting
 - [Searching Algorithms](https://www.geeksforgeeks.org/dsa/searching-algorithms/)
 - [Sorting Algorithms](https://www.geeksforgeeks.org/dsa/sorting-algorithms/)
@@ -16,6 +18,9 @@
 ### 🌳 Data Structures
 - [Binary Tree](https://www.geeksforgeeks.org/dsa/binary-tree-data-structure/)
 - [Trie (Insert & Search)](https://www.geeksforgeeks.org/dsa/trie-insert-and-search/)
+
+### 🌳 Hashing
+https://www.geeksforgeeks.org/introduction-to-hashing-2/
 
 ### 🔗 Graph Theory
 - [Graphs (W3Schools)](https://www.w3schools.com/dsa/dsa_theory_graphs.php)
@@ -49,5 +54,8 @@
 ---
 
 ## 🐧 Bonus
-
 - [Linux Cheat Sheet](https://chatgpt.com/share/68579b27-b790-800a-9c03-d92496a9cb6b)
+
+Web Dev - https://www.geeksforgeeks.org/web-development/
+
+https://www.geeksforgeeks.org/
